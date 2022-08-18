@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("master Test");
         System.out.println("hot-fix Test");
         System.out.println("push Test1");
+        System.out.println("push Test2");
     }
 }
